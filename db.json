@@ -1,1 +1,6 @@
-
+{
+  "users":[
+    {"name": "Karoline", "email": "karo@gmail.com"},
+    {"name": "thadsha", "email":"thadsha@gmail.com"}
+  ]
+}
